@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 5 |
+| 3 | 5 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [games](#games) (1)
 - [greedy](#greedy) (1)
 - [math](#math) (1)
@@ -25,6 +25,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 2244A | [Iskander and Drawings](https://codeforces.com/contest/2244/problem/A) | Unrated | [C++17 (GCC 7-32)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2244/A%20-%20Iskander%20and%20Drawings/solution.cpp) |
+| 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++17 (GCC 7-32)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
 ### games
 
