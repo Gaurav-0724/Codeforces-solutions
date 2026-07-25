@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 11 |
+| 13 | 11 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (2)
-- [constructive algorithms](#constructive-algorithms) (2)
+- [constructive algorithms](#constructive-algorithms) (3)
 - [dp](#dp) (7)
 - [games](#games) (1)
 - [greedy](#greedy) (3)
@@ -54,6 +54,7 @@
 |---|---------|------------|----------|
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
+| 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 
 ### dp
 
