@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 14 | 11 |
+| 15 | 12 |
 
 ---
 
@@ -16,11 +16,12 @@
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (2)
 - [constructive algorithms](#constructive-algorithms) (3)
+- [data structures](#data-structures) (1)
 - [dp](#dp) (7)
 - [games](#games) (1)
-- [greedy](#greedy) (3)
+- [greedy](#greedy) (4)
 - [implementation](#implementation) (1)
-- [math](#math) (4)
+- [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
 
@@ -57,6 +58,12 @@
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
+
 ### dp
 
 | # | Problem | Difficulty | Solution |
@@ -81,6 +88,7 @@
 |---|---------|------------|----------|
 | 545C | [Woodcutters](https://codeforces.com/contest/545/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/545/C%20-%20Woodcutters/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 
 ### implementation
@@ -95,6 +103,7 @@
 |---|---------|------------|----------|
 | 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 2222C | [Median Partition](https://codeforces.com/contest/2222/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2222/C%20-%20Median%20Partition/solution.cpp) |
 
