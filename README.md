@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 12 |
+| 20 | 13 |
 
 ---
 
@@ -19,8 +19,9 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (8)
 - [games](#games) (1)
+- [geometry](#geometry) (1)
 - [greedy](#greedy) (5)
-- [implementation](#implementation) (1)
+- [implementation](#implementation) (2)
 - [math](#math) (5)
 - [number theory](#number-theory) (1)
 - [sortings](#sortings) (1)
@@ -86,6 +87,12 @@
 |---|---------|------------|----------|
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 
+### geometry
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
+
 ### greedy
 
 | # | Problem | Difficulty | Solution |
@@ -101,6 +108,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 
 ### math
 
