@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 22 | 13 |
+| 23 | 13 |
 
 ---
 
@@ -22,7 +22,7 @@
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (5)
 - [implementation](#implementation) (3)
-- [math](#math) (6)
+- [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (1)
 
@@ -119,6 +119,7 @@
 | 550C | [Divisibility by Eight](https://codeforces.com/contest/550/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/550/C%20-%20Divisibility%20by%20Eight/solution.cpp) |
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
 | 1828B | [Permutation Swap](https://codeforces.com/contest/1828/problem/B) | 900 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1828/B%20-%20Permutation%20Swap/solution.cpp) |
+| 1872D | [Plus Minus Permutation](https://codeforces.com/contest/1872/problem/D) | 1200 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1872/D%20-%20Plus%20Minus%20Permutation/solution.cpp) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 | 1931E | [Anna and the Valentine's Day Gift](https://codeforces.com/contest/1931/problem/E) | 1400 | [C++17 (GCC 7-32)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1931/E%20-%20Anna%20and%20the%20Valentine's%20Day%20Gift/solution.cpp) |
 | 2222C | [Median Partition](https://codeforces.com/contest/2222/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2222/C%20-%20Median%20Partition/solution.cpp) |
