@@ -6,14 +6,14 @@
 
 | Total Problems | Topics |
 |---|---|
-| 27 | 15 |
+| 28 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (6)
-- [binary search](#binary-search) (2)
+- [binary search](#binary-search) (3)
 - [brute force](#brute-force) (3)
 - [combinatorics](#combinatorics) (1)
 - [constructive algorithms](#constructive-algorithms) (5)
@@ -22,11 +22,12 @@
 - [games](#games) (1)
 - [geometry](#geometry) (1)
 - [greedy](#greedy) (9)
-- [implementation](#implementation) (3)
+- [implementation](#implementation) (4)
 - [math](#math) (7)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
+- [two pointers](#two-pointers) (1)
 
 ---
 
@@ -46,6 +47,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 1907D | [Jumping Through Segments](https://codeforces.com/contest/1907/problem/D) | 1400 | [C++17 (GCC 7-32)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1907/D%20-%20Jumping%20Through%20Segments/solution.cpp) |
 
 ### brute force
@@ -124,6 +126,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1659C | [Line Empire](https://codeforces.com/contest/1659/problem/C) | 1500 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1659/C%20-%20Line%20Empire/solution.cpp) |
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 | 2275A | [In Search of Convenience](https://codeforces.com/contest/2275/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2275/A%20-%20In%20Search%20of%20Convenience/solution.cpp) |
 | 2275B | [Did Not Go to Print](https://codeforces.com/contest/2275/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/2275/B%20-%20Did%20Not%20Go%20to%20Print/solution.cpp) |
 
@@ -158,6 +161,12 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1791D | [Distinct Split](https://codeforces.com/contest/1791/problem/D) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1791/D%20-%20Distinct%20Split/solution.cpp) |
+
+### two pointers
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1744C | [Traffic Light](https://codeforces.com/contest/1744/problem/C) | 1000 | [C++23 (GCC 14-64, msys2)](https://github.com/Gaurav-0724/Codeforces-solutions/blob/HEAD/1744/C%20-%20Traffic%20Light/solution.cpp) |
 
 ---
 
